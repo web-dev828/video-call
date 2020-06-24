@@ -1,33 +1,29 @@
 var data = {
   // account info
-  name: "Giovanni-Alessandro D'Alia",
-  username: "daliapinguino",
-  email: "daliapinguino21@gmail.com",
-  address: "Venechnaja street 12 Hrodna",
-  title: "Senior Full Stack Developer with Chrome Extension, AWS",
-  skills:
-    "Python, JavaScript, ECMAScript, TypeScript, Django, Flask, React, Vue.js, Ruby on Rails, Laravel",
-  hourly: "$50/hr",
+  name: "Davis Abols",
+  username: "davis-abols",
+  email: "contact@davisabols.dk",
+  address: "Valdemara iela 135-3",
+  title: "Senior Full Stack Developer",
+  skills: "HTML5, CSS3, JavaScript, PHP, WordPresss, React, Laravel, Vue.js, Ruby on Rails, Python",
+  hourly: "$35/hr",
   history:
-    "Expert in SEO Optimization of Landing page | StarMedia January 2017 - June 2017",
-
+    "Frontend Web Developer | Picanova July 2019 - present <br>(My duties include maintaining and improving large scale international web shops, such as https://www.meinfoto.de by creating new features, optimizing and bug fixing) <br><br><br>Frontend Web Developer | Gandrs IT October 2018 - December 2018 <br>(Was responsible for designing and developing a presentational website: https://ezuro.com)",
   // project info
-  jobtitle: "Bootstrap theme based Website (Landkit)",
-  client: "Name: VINIT Gandhi, Country: Singapore",
-  jobdetail: "It is to build landing page with Landkit and Bootstrap4",
+  jobtitle: "Scenario-based question creation for C/C++ experience with multi-core",
+  client: "Name: Girish Mohan, Country: United State",
+  jobdetail: "It is to create C/C++ multiple choice questions. Budget is $20. I got job yesterday",
 
   // skills
   php_variable: "$variable_name",
   html:
     "Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.",
-  css:
-    "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on the screen, paper, or in other media",
+  css: "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on the screen, paper, or in other media",
   javascript:
     "JavaScript is the programming language of HTML and the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data",
   jquery:
     "jQuery is an open source JavaScript library that simplifies the interactions between an HTML/CSS document, or more precisely the Document Object Model (DOM), and JavaScript. Elaborating the terms, jQuery simplifies HTML document traversing and manipulation, browser event handling, DOM animations, Ajax interactions, and cross-browser JavaScript development.",
-  bootstrap:
-    "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first websites.",
+  bootstrap: "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first websites.",
   angular:
     "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.",
   react:
