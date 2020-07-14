@@ -1,18 +1,18 @@
 var data = {
   // account info
-  name: "Davis Abols",
-  username: "davis-abols",
-  email: "contact@davisabols.dk",
-  address: "Valdemara iela 135-3",
-  title: "Senior Full Stack Developer",
-  skills: "HTML5, CSS3, JavaScript, PHP, WordPresss, React, Laravel, Vue.js, Ruby on Rails, Python",
-  hourly: "$35/hr",
+  name: "Miroslav Zdravkovic",
+  username: "donmikeli",
+  email: "miroslav.zdravkovic@gmail.com",
+  address: "Dušana Stamenkovića Brače 7 Vranje",
+  title: "Senior Web Developer with 15 years expereince",
+  skills: "PHP, JavaScript, MySQL, SQL, Vue.js, Node.js, Laravel, MongoDB, Python, Machine Learning",
+  hourly: "$30/hr",
   history:
-    "Frontend Web Developer | Picanova July 2019 - present <br>(My duties include maintaining and improving large scale international web shops, such as https://www.meinfoto.de by creating new features, optimizing and bug fixing) <br><br><br>Frontend Web Developer | Gandrs IT October 2018 - December 2018 <br>(Was responsible for designing and developing a presentational website: https://ezuro.com)",
+    "You will need to answer your employment history, if they ask",
   // project info
-  jobtitle: "Scenario-based question creation for C/C++ experience with multi-core",
-  client: "Name: Girish Mohan, Country: United State",
-  jobdetail: "It is to create C/C++ multiple choice questions. Budget is $20. I got job yesterday",
+  jobtitle: "Single Page Layout Design",
+  client: "Name: Basit Qadeer, Country: Germany",
+  jobdetail: "It is to use Vue and Vuetify to implement the Single Page Layout Design.",
 
   // skills
   php_variable: "$variable_name",
