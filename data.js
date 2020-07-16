@@ -1,18 +1,18 @@
 var data = {
   // account info
-  name: "Miroslav Zdravkovic",
-  username: "donmikeli",
-  email: "miroslav.zdravkovic@gmail.com",
-  address: "Dušana Stamenkovića Brače 7 Vranje",
-  title: "Senior Web Developer with 15 years expereince",
-  skills: "PHP, JavaScript, MySQL, SQL, Vue.js, Node.js, Laravel, MongoDB, Python, Machine Learning",
+  name: "Marius Matulevicius",
+  username: "marius-matulevic",
+  email: "mmatulevicius029@gmail.com",
+  address: " Zirmunu g 38a 36 Vilnius, VL 09229",
+  title: "Expert Full Stack Web Developer || Game Developer",
+  skills: "PHP, JavaScript, React, Node.js, Java, Spring Boot, Unity, PixiJS, Phaser, Vue.js",
   hourly: "$30/hr",
   history:
     "You will need to answer your employment history, if they ask",
   // project info
-  jobtitle: "Single Page Layout Design",
-  client: "Name: Basit Qadeer, Country: Germany",
-  jobdetail: "It is to use Vue and Vuetify to implement the Single Page Layout Design.",
+  jobtitle: "Get paid to solve and review Scala Questions",
+  client: "Name: Girish Mohan, Country: United State",
+  jobdetail: "It is to solve and review online Scala Questions from link.",
 
   // skills
   php_variable: "$variable_name",
