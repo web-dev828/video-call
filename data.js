@@ -2,31 +2,31 @@ var data = {
 
   // account info
 
-  name: "Juan Sebastian Palacios Cortes",
+  name: "Bozidar Vasic",
 
-  username: "jpalacios_cortes",
+  username: "174f8f7d",
 
-  email: "juanpalacor@gmail.com",
+  email: "bvasic017@gmail.com",
 
-  address: "carrera 2g # 73-32 apt 302, Tunja, BOY 150003",
+  address: "Ustanicka 3 Vranje, SE 17500",
 
-  title: "Sr, Flutter, React Native Mobile Engineer | Full Stack Web Developer ( * I created mobile and full stack specialized profile)",
+  title: "Senior Full Stack Developer ( * I created frontend and full stack specialized profile)",
 
-  skills: "Flutter, Node.js, MongoDB, Firebase, MySQL, Amazon Web Services, JavaScript, Dart, React, Vue.js",
+  skills: "JavaScript, TypeScript, React, Vue.js, Node.js, PHP, Laravel, Next.js, Python",
 
-  hourly: "$35/hr",
+  hourly: "$60/hr",
 
   history:
 
-    "Full stack developer | Automatizame Nov 2017 ~ present",
+    "Web and Mobile Developer | IngSoftware corp. April 2016 ~ February 2018",
 
   // project info
 
-  jobtitle: "React.js button with loading spinner",
+  jobtitle: "Python Developers - Provide feedback on a Visual Studio Code Extension",
 
-  client: "Name: Liem Mai, Country: United State",
+  client: "Name: Dan Warner, Country: United State",
 
-  jobdetail: "It is to add a loading spinner and process spinner to buttons in React.js. ( * Budget is $20. I got job yesterday and finished)",
+  jobdetail: "It is to test the VSCode extension made with Python on my Django project and give him feedback. ( * Hourly rate is $40/hr, 3hrs. I finished)",
 
 
 
@@ -89,6 +89,10 @@ var data = {
   ruby:
 
     "Ruby is... A dynamic, open source High Level programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
+
+  django:
+
+    "Django is a Python-based free and open-source web framework that follows the model-template-views architectural pattern.",
 
 };
 
