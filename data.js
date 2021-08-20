@@ -1,98 +1,74 @@
 var data = {
-
   // account info
 
-  name: "Bozidar Vasic",
+  name: "Matias Arroyo",
 
-  username: "174f8f7d",
+  username: "ff5995c3",
 
-  email: "bvasic017@gmail.com",
+  email: "matiasarroyo684@gmail.com",
 
-  address: "Ustanicka 3 Vranje, SE 17500",
+  address: "Jose Gomez 1079 Goya, Corrientes 3450",
 
-  title: "Senior Full Stack Developer ( * I created frontend and full stack specialized profile)",
+  title: "Senior Full Stack Web Developer",
 
-  skills: "JavaScript, TypeScript, React, Vue.js, Node.js, PHP, Laravel, Next.js, Python",
+  skills:
+    "JavaScript, TypeScript, React, Vue.js, Node.js, PHP, Laravel, Next.js, Python, MySQL, Laravel, Chrome Extension",
 
-  hourly: "$60/hr",
+  hourly: "$40/hr",
 
-  history:
-
-    "Web and Mobile Developer | IngSoftware corp. April 2016 ~ February 2018",
+  history: "Senior Software Engineer | Mortun Facotry Company. September 2020 ~ January 2021",
 
   // project info
 
-  jobtitle: "Python Developers - Provide feedback on a Visual Studio Code Extension",
+  jobtitle: "Retool Project",
 
-  client: "Name: Dan Warner, Country: United State",
+  client: "Name: Robert Demaree, Country: United State",
 
-  jobdetail: "It is to test the VSCode extension made with Python on my Django project and give him feedback. ( * Hourly rate is $40/hr, 3hrs. I finished)",
-
-
+  jobdetail: "It is to recreate a project that was built on retool",
 
   // skills
 
   php_variable: "$variable_name",
 
-  html:
-
-    "Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.",
+  html: "Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.",
 
   css: "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on the screen, paper, or in other media",
 
   javascript:
-
     "JavaScript is the programming language of HTML and the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data",
 
   jquery:
-
     "jQuery is an open source JavaScript library that simplifies the interactions between an HTML/CSS document, or more precisely the Document Object Model (DOM), and JavaScript. Elaborating the terms, jQuery simplifies HTML document traversing and manipulation, browser event handling, DOM animations, Ajax interactions, and cross-browser JavaScript development.",
 
-  bootstrap: "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first websites.",
+  bootstrap:
+    "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first websites.",
 
   angular:
-
     "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.",
 
   react:
-
     "React.js is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded. However, fetching data is only the beginning of what happens on a web page, which is why complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API.",
 
   redux:
-
     "Redux is an open-source Javascript library for managing application state. It is mot commonly used with libraries such as React or Angular for building user interfaces.",
 
-  vue:
+  vue: "Vue is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.",
 
-    "Vue is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.",
+  node: "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
 
-  node:
-
-    "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
-
-  php:
-
-    "PHP( Hypertext Preprocessor) is a server scripting language and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP",
+  php: "PHP( Hypertext Preprocessor) is a server scripting language and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP",
 
   laravel:
-
     "Laravel is a web application framework with expressive, elegant syntax. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching. Current version is 5.7",
 
   wordpress:
-
     " WordPress is a Content Management System, that allows you to create and publish your content on the web. Although it is mostly used for web publishing, it can be used to manage content on an intranet, or in a single computer.",
 
   codeigniter:
-
     "CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.",
 
-  ruby:
-
-    "Ruby is... A dynamic, open source High Level programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
+  ruby: "Ruby is... A dynamic, open source High Level programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
 
   django:
-
     "Django is a Python-based free and open-source web framework that follows the model-template-views architectural pattern.",
-
 };
-
