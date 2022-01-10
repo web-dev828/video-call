@@ -1,30 +1,31 @@
 var data = {
   // account info
 
-  name: "Matias Arroyo",
+  name: "Dejan Ilic",
 
-  username: "ff5995c3",
+  email: "dejan.ilic.star@gmail.com",
 
-  email: "matiasarroyo684@gmail.com",
+  address: "Focanska 16 Belgrade, SE 11000 Serbia",
 
-  address: "Jose Gomez 1079 Goya, Corrientes 3450",
-
-  title: "Senior Full Stack Web Developer",
+  title: "Senior Full Stack Web Developer with Blockchain Experience",
 
   skills:
-    "JavaScript, TypeScript, React, Vue.js, Node.js, PHP, Laravel, Next.js, Python, MySQL, Laravel, Chrome Extension",
+    "Web Application, JavaScript, TypeScript, PHP, React, Vue.js, Java, Laravel, Blockchain, web3.js, Node.js, Solidity, Unit Testing",
 
   hourly: "$40/hr",
 
-  history: "Senior Software Engineer | Mortun Facotry Company. September 2020 ~ January 2021",
+  history1:
+    "Full Stack Deeloper, DevOps, QA Engineer | El Sport Media Group. May 2018 ~ Jan 2020 | I built a custom email marketing system by using several technologies",
+
+  history2: "Full Stack Developer | GCIP. Feb 2016 ~ Feb 2018 | I created several Rest API with Laravel, Node.js, etc",
 
   // project info
 
-  jobtitle: "Retool Project",
+  jobtitle: "Typescript Developer to create automated web scrapers",
 
-  client: "Name: Robert Demaree, Country: United State",
+  client: "Name: Keith Monteiro, Country: United State",
 
-  jobdetail: "It is to recreate a project that was built on retool",
+  jobdetail: "It is to create web scraping scripts with Node.js, TypeScript, Puppeteer",
 
   // skills
 
